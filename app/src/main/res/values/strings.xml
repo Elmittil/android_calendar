@@ -4,6 +4,7 @@
     <string name="tab_text_2">Week</string>
     <string name="tab_text_3">Month</string>
     <string name="tab_text_4">Year</string>
+    <string name="reset_view">Today</string>
     <string name="title_activity_navigation_drawer">NavigationDrawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
